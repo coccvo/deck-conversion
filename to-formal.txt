@@ -1,5 +1,4 @@
 #过期先行卡转换为正式卡
-#项目地址：https://code.moenext.com/coccvo/card-password-conversion
 100240001	8445808
 100240201	44839512
 100240003	71228611

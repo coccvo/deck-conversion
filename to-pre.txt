@@ -1,6 +1,4 @@
 #服务器未更新正式卡转换为先行卡
-#项目地址：https://code.moenext.com/coccvo/card-password-conversion
-#最新版下载：https://code.moenext.com/coccvo/card-password-conversion/-/releases
 100257004	30275298
 100257005	66664203
 100257006	92058902
